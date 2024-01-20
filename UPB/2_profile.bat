@@ -1,0 +1,2 @@
+python complete_profile.py
+pause

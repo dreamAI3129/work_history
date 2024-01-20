@@ -1,0 +1,125 @@
+{
+	"first_name":"Wiley",
+	"last_name":"Ong",
+	"professional": "Fullstack developer | nodejs | API | Swift | Flutter",
+	"overview": "Experienced IT Specialist with a strong background in designing, developing, and maintaining computer systems for a diverse business clientele.  5+ years of blockchain development experience includes 20+ valuable Ethereum and Solana blockchain projects. 7+ years of web development experience using JavaScript frameworks includes 30+ valuable web projects.",
+	"country": "Malaysia",
+	"hour_rate": "25",
+	"work_experience": [
+		{
+			"company": "RUBY Exchange",
+			"role": "Senior Frontend Web3 Developer ",
+			"description": [
+				"Developed a web UI of DEX platform for crypto trading using ReactJS.",
+				"Used Redux as state management, Tailwindcss and MUI for UI styling.",
+				"Tested the UI using Jest framework.",
+				"Interacted with blockchain using ethers module."
+			],
+			"start": "2021.7",
+			"end": "2023.5"
+		},
+		{
+			"company": "Bidify Org",
+			"role": "Blockchain Fullstack Developer",
+			"description": [
+				"Built the smart contracts by solidity to buy, sell and auction NFTs on the platform.",
+				"Took part in the development of UI using ReactJS.",
+				"Integrated with 3rd party APIs such as IPFS, Arweave and Fleek."
+			],
+			"start": "2018.9",
+			"end": "2021.6"
+		},
+		{
+			"company": "XION Global",
+			"role": "Frontend Developer",
+			"description": [
+				"Created responsive websites from scratch.",
+				"Designed and maintained front end for web and mobile applications by using AngularJS/TypeScript.",
+				"Wrote unit tests to improve code predictability and documentation."
+			],
+			"start": "2017.2",
+			"end": "2018.8"
+		}
+	],
+	"education": [
+		{
+			"university": "Teylor's University",
+			"country": "Ukraine",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2014",
+			"end": "2018"
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Blockchain, NFT & Cryptocurrency",
+        "Flutter",
+        "web3.js",
+        "React",
+        "Vue.js",
+        "Next.js",
+        "Django",
+        "TypeScript",
+        "Responsive Design",
+        "ASP.NET",
+        "Tailwind CSS",
+        "PHP",
+        "API Development",
+        "Python",
+        "Web Development"
+	],
+	"services": [
+		"Blockchain, NFT & Cryptocurrency",
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+        "Desktop Application Development",
+		"Database Management & Administration",
+		"Data Mining & Management",
+		"Lead Generation & Telemarketing"
+	],
+	"photo_others":{
+		"birthday":"1995-11-22",
+		"country" :"Malaysia",
+		"street": "Kovylnaya Ul., bld. 70, appt. 77",
+		"zipcode": "65000",
+		"city": "Subang Jaya, Selangor, MY",
+		"location": "Malaysia",
+		"phone": "0652615914",
+		"avatar": [
+			"avatar (1).JPG",
+			"avatar (2).JPG",
+			"avatar (3).JPG",
+			"avatar (4).JPG",
+			"avatar (5).JPG",
+			"avatar (6).JPG",
+			"avatar (7).JPG",
+			"avatar (8).JPG",
+			"avatar (9).JPG",
+			"avatar (10).JPG",
+			"avatar (11).JPG",
+			"avatar (12).JPG",
+			"avatar (13).JPG",
+			"avatar (14).JPG",
+			"avatar (15).JPG",
+			"avatar (16).JPG",
+			"avatar (17).JPG",
+			"avatar (18).JPG",
+			"avatar (19).JPG",
+			"avatar (20).JPG",
+			"avatar (21).JPG",
+			"avatar (22).JPG",
+			"avatar (23).JPG",
+			"avatar (24).JPG",
+			"avatar (25).JPG",
+			"avatar (26).JPG",
+			"avatar (27).JPG",
+			"avatar (28).JPG",
+			"avatar (29).JPG",
+			"avatar (30).JPG"
+		  ]
+	}
+	
+}
+

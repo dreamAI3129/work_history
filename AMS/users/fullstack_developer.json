@@ -1,0 +1,69 @@
+{
+  "first_name": "Robert",
+  "last_name": "W",
+  "professional": "MERN | full stack developer",
+  "overview": "Senior Full stack Developer with 6 years of proven leadership and meaningfully contributions to teams of varying size and scope. I have a strong foundation in web development technologies including HTML, CSS, JavaScript, React, Vue.js, Angular. I am skilled in developing responsive and user-friendly interfaces. With a keen eye for design and attention to detail, I am able to produce high-quality code that meets project requirements and exceeds user expectations.",
+  "country": "Finland",
+  "hourRate": "20",
+  "workXP": [
+    {
+      "company": "NovaTech Innovations",
+      "role": "Senior Front-End Developer",
+      "description": [
+        "My primary responsibility would be to design, develop, and maintain software applications that run on the front-end. This includes working with various programming languages, frameworks, and tools to build robust and scalable applications."
+	],
+      "start": "2020.6",
+      "end": "2023.6"
+    },
+    {
+      "company": "Northern Lights Web Design",
+      "role": "Junior Back-end Developer",
+      "description": [
+        "My role would involve working on the back-end development of web applications using the Express and Django. You would be responsible for building user interfaces, implementing interactive features, and ensuring the performance and responsiveness of the application."
+      ],
+      "start": "2016.8",
+      "end": "2019.5"
+    }
+  ],
+  "education": [
+    {
+      "university": "McMaster University",
+      "degree": "Bachelor of Computer Science (BCompSc)",
+      "field": "Computer Science",
+      "start": "2010",
+      "end": "2014"
+    }
+  ],
+  "languages": [],
+  "skills": [
+    "JavaScript",
+    "PHP", 
+    "Responsive Design",
+    "React",
+    "Vue.js",
+    "Angular",
+    "React Native",
+    "Laravel",
+    "Python",
+    "Django",
+    "ChatGPT",
+    "Wix",
+    "WordPress",
+    "Shopify",
+    "WooCommerce"
+  ],
+  "services": [
+    "Web Development",
+    "Web & Mobile Design",
+    "Ecommerce Development",
+    "Mobile Development",
+    "ERP/CRM Software"
+  ],
+  "birthday": "1993-11-15",
+  "street": "Eerikinkatu 2",
+  "zipcode": "00100",
+  "city": "Helsinki",
+  "location": "Finland",
+  "phone": "5466582",
+  "avatar": "!68502470.jpg"	
+}

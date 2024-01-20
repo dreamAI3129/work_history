@@ -1,0 +1,89 @@
+{
+	"first_name": "Alric",
+	"last_name": "Bauer",
+	"professional": "Full Stack Developer, Mobile & Web Expert",
+	"overview": "Experienced IT Specialist with a strong background in designing, developing, and maintaining computer systems for a diverse business clientele.  5+ years of blockchain development experience includes 20+ valuable Ethereum and Solana blockchain projects. 7+ years of web development experience using JavaScript frameworks includes 30+ valuable web projects.",
+	"country": "Ukraine",
+	"hourRate": "25",
+	"workXP": [
+		{
+			"company": "RUBY Exchange",
+			"role": "Senior Frontend Web3 Developer ",
+			"description": [
+				"Developed a web UI of DEX platform for crypto trading using ReactJS.",
+				"Used Redux as state management, Tailwindcss and MUI for UI styling.",
+				"Tested the UI using Jest framework.",
+				"Interacted with blockchain using ethers module."
+			],
+			"start": "2021.7",
+			"end": "2023.5"
+		},
+		{
+			"company": "Bidify Org",
+			"role": "Blockchain Fullstack Developer",
+			"description": [
+				"Built the smart contracts by solidity to buy, sell and auction NFTs on the platform.",
+				"Took part in the development of UI using ReactJS.",
+				"Integrated with 3rd party APIs such as IPFS, Arweave and Fleek."
+			],
+			"start": "2018.9",
+			"end": "2021.6"
+		},
+		{
+			"company": "XION Global",
+			"role": "Frontend Developer",
+			"description": [
+				"Created responsive websites from scratch.",
+				"Designed and maintained front end for web and mobile applications by using AngularJS/TypeScript.",
+				"Wrote unit tests to improve code predictability and documentation."
+			],
+			"start": "2017.2",
+			"end": "2018.8"
+		}
+	],
+	"education": [
+		{
+			"university": "Ternopil National Economic University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2010",
+			"end": "2014"
+		}
+	],
+	"languages": [],
+	"skills": [
+		"Blockchain, NFT & Cryptocurrency",
+        "Smart Contract",
+        "web3.js",
+        "React",
+        "Vue.js",
+        "Next.js",
+        "Django",
+        "TypeScript",
+        "Responsive Design",
+        "ASP.NET",
+        "Tailwind CSS",
+        "PHP",
+        "API Development",
+        "Python",
+        "Web Development"
+	],
+	"services": [
+		"Blockchain, NFT & Cryptocurrency",
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+        "Desktop Application Development",
+		"Database Management & Administration",
+		"Data Mining & Management",
+		"Lead Generation & Telemarketing"
+	],
+	"street": "Kovylnaya Ul., bld. 70, appt. 77",
+	"zipcode": "65000",
+	"city": "Simferopol, Republic of Crimea, UA",
+	"location": "Ukraine",
+	"phone": "0652615914",
+	"avatar": "jaylin.jpg",
+	"birth":"1995-01-25"
+}
+
