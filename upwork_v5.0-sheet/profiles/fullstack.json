@@ -1,0 +1,93 @@
+{
+  "first_name": ["Robert"],
+  "last_name": ["W"],
+  "professional": "MERN | full stack developer",
+  "work_experience": [
+    {
+      "company": "Forelogix Interactive",
+      "role": "Senior Front-End Developer",
+      "country" : "Finland",
+			"location": "",
+      "description": [
+        "My primary responsibility would be to design, develop, and maintain software applications that run on the front-end. This includes working with various programming languages, frameworks, and tools to build robust and scalable applications."
+	    ],
+      "start": "2020.6",
+      "end": "2023.6"
+    },
+    {
+      "company": "NEXPlatform",
+      "role": "Junior Back-end Developer",
+      "country" : "Finland",
+			"location": "",
+      "description": [
+        "My role would involve working on the back-end development of web applications using the Express and Django. You would be responsible for building user interfaces, implementing interactive features, and ensuring the performance and responsiveness of the application."
+      ],
+      "start": "2016.8",
+      "end": "2019.5"
+    }
+  ],
+  "education": [
+    {
+      "university": "McMaster University",
+      "degree": "Bachelor of Computer Science (BCompSc)",
+      "field": "Computer Science",
+      "start": "2010",
+      "end": "2014",
+      "description": ""
+    }
+  ],
+  "languages": [],
+  "skills": [
+    "JavaScript", 
+    "React",
+    "Vue.js",
+    "Angular",
+    "Responsive Design",
+    "PHP",
+    "Laravel",
+    "Python",
+    "Django",
+    "ChatGPT",
+    "Wix",
+    "WordPress",
+    "WooCommerce",
+    "Shopify",
+    "Blockchain",
+    
+
+  ],
+  "services": [
+    "Web Development",
+    "Web & Mobile Design",
+    "Ecommerce Development",
+    "Mobile Development",
+    "ERP/CRM Software"
+  ],
+  "overview": [
+    "Senior Front-end Developer with 7 years of proven leadership and meaningfully contributions to teams of varying size and scope. I have a strong foundation in web development technologies including HTML, CSS, JavaScript, React, Vue.js, Angular. I am skilled in developing responsive and user-friendly interfaces. With a keen eye for design and attention to detail, I am able to produce high-quality code that meets project requirements and exceeds user expectations.",
+    "-programming languages: C++, JavaScript,TypeScript, PHP, Python",
+    "-Frontend: React, Angular, Vue.js, Nest.js",
+    "-Backend: Node.js, Express.js, Django, Flask",
+    "-Frontend + Backend: Next.js, Laravel",
+    "-CSS Frameworks: Boostrap, Tailwind CSS",
+    "-Database: MySQL, MongoDB, PostgreSQL, Firebase",
+    "-Blockchain:Web3.js, Solidity, Smart contract, Solana",
+    "-Other: Figma, XD, Wix, WordPress, Shopify, WooCommerce, SEO, Git"
+  ],
+  "hour_rate": "20",
+  "agency" : "vecom",
+  "photo_others": {		
+		"birthday": "1993-11-15",
+		"country" : "Finland",
+		"city": "Helsinki",
+		"street": "Aleksanterinkatu 10",
+		"zipcode": "00100",
+		"phone": "417444638",
+		"avatar":[
+			"avatar.jpg",
+			"avatar-2.jpg",
+			"avatar-3.jpg",
+		]
+	}
+
+}

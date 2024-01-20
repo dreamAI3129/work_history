@@ -1,0 +1,62 @@
+{
+	"first_name": "Aino",
+	"last_name": "Hakala",
+	"professional": "Senior Mobile Developer",
+	"overview": "As experienced mobile app developer with 8 years of expertise, is passionate about creating innovative solutions. My specialization in iOS and Android development ensures seamless user experiences and optimal performance. With a keen eye for detail and a dedication to delivering high-quality results, I keeps up with industry advancements and integrates cutting-edge features into his mobile app projects.",
+	"country": "Finland",
+	"hourRate": "20",
+	"workXP": [
+		{
+			"company": "Fueled",
+			"role": "Senior Mobile Developer",
+			"description": [
+				"As a Senior Mobile Developer, I have led teams and worked closely with stakeholders to ensure successful delivery of mobile software projects.",
+				"By integrating DevOps practices and implementing CI/CD, I achieved shorter development cycles, improved collaboration, and greater efficiency in delivering high-quality mobile applications to end-users."
+			],
+			"start": "2020.9",
+			"end": "2023.5"
+		},
+		{
+			"company": "Junior Mobile Developer",
+			"role": "Zymr",
+			"description": [
+				"As a Junior Software Developer, I worked on smaller components of larger projects, gaining valuable experience and contributing to the team's success.",
+				" I learned new coding techniques and debugging tools, developing a deeper understanding of software development principles."
+			],
+			"start": "2016.5",
+			"end": "2020.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Munich",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2010",
+			"end": "2014"
+		}
+	],
+	"languages": [],
+	"skills": [
+				"Flutter",
+				"React Native",
+				"RESTful API",
+	"Node.js",
+	"Ruby on Rails",
+	"GitHub",
+        "JUnit",
+        "Android",
+        "iOS"
+	],
+	"services": [
+		"Mobile Development",
+        "Web & Mobile Design"
+	],
+	"birthday":"1990-11-15",
+	"street": "Tehtaankatu 52",
+	"zipcode": "00100",
+	"city": "Helsinki",
+	"location": "Finland",
+	"phone": "4862564",
+	"avatar": "robert.jpg"
+}

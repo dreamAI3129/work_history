@@ -1,0 +1,74 @@
+{
+	"first_name": "Robert",
+	"last_name": "Wang",
+	"professional": "Senior AI Developer",
+	"overview": "With 6 years of experience as an AI developer, extensive knowledge is applied in designing and implementing intelligent systems using various programming languages and machine learning technologies. Strong analytical and programming skills enable solving complex problems and developing optimized solutions. The ability to work collaboratively in a team environment is enhanced by high motivation and excellent interpersonal skills.",
+	"country": "Finland",
+	"hourRate": "20",
+	"workXP": [
+		{
+			"company": "Gofore AI",
+			"role": "Senior AI Developer",
+			"description": [
+				"Develop and implement intelligent systems incorporating deep learning and AI techniques",
+				"Design new algorithms and improve existing ones to solve complex business problems",
+				"Worked closely with UX/UI designers to transform wireframes and mockups into visually appealing and user-friendly interfaces.",
+				"Promote the use of machine learning and AI technologies across the organization and provide technical support for integration into existing systems machine learning"			
+			],
+			"start": "2020.9",
+			"end": "2023.8"
+		},
+		{
+			"company": "Valohai",
+			"role": "Junior Machine Learning developer",
+			"description": [
+				"Assisted in designing and implementing AI algorithms and models",
+				"Rewrote HTML to meet industry and company standards for SEO and Accessibility.",
+				"Developed proofs of concept to identify potential applications of machine learning technologies",
+				"Assisted in producing analytical reports and presentations on the benefits of integrating AI technologies into the organization"
+			],
+			"start": "2015.9",
+			"end": "2019.8"
+		}
+	],
+	"education": [
+		{
+			"university": "University of Turku",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer science and AI field",
+			"start": "2012",
+			"end": "2016"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Python",
+				"Data Science",
+				"Data Analysis",
+				"Machine Learning",
+				"Chatbot",
+				"Deep Learning",
+				"ChatGPT",
+				"Natural Language Processing",
+				"TensorFlow",
+				"PyTorch",
+				"Keras",
+				"NumPy",
+				"OpenCV",
+				"Artificial Intelligence"
+        
+	],
+	"services": [
+		"Ecommerce Development",
+		"ERP/CRM Software",
+		"Data Mining & Management",
+		"AI & Machine Learning"
+	],
+	"birthday": "1993-11-15",
+	"street": "Porthaninkatu 12",
+	"zipcode": "00530",
+	"city": "Helsinki",
+	"location": "Finland",
+	"phone": "5483354",
+	"avatar": "9324618.jpg"
+}
